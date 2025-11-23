@@ -84,7 +84,7 @@ All worksheet combined into a single interactive dashboard. The dashboard includ
 - This is a historical dataset and so cannot be used infer global health insights for the present day, however a possible next step would be to use current data and assess whether global health as improved or worsened in recent years.
 - Calculated metrics like cancer case rates or total cancer cases rely on aggregated data, which may mask local variability.
 - Overall, the project demonstrated how interactive dashboards can help communicate complex global health trends in an accessible way.
-- 
+  
 ---
  ### 📁 Files in This Repository  
 - **[GapminderHealth.xlsx](GapminderHealth.xlsx)**
