@@ -66,7 +66,7 @@ All worksheet combined into a single interactive dashboard. The dashboard includ
 - Each point indicates a country and each colour indicates a continent.
 - Allows users to spot patterns in BMI and cholesterol.
 
-**5) Population Distribution by Gender**
+**5) Population by Gender**
 - Pie chart showing the male and female distributions.
 - Visualisation has been used as a filter and applied to all data using the same source, allowing users to focus on gender-specific health patterns.
 - Clearly demonstrates whether there is a demographic imbalance or parity.
