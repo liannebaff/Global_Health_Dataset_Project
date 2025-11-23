@@ -50,7 +50,7 @@ All worksheet combined into a single interactive dashboard. The dashboard includ
 
 **1) Life Expectancy Trend**
 - Multi-line chart visualising changes in life expectancy between 1990-2008 for each country.
-- VThe chart has been set to "Use as Filter" and applied to all data using the same source, so selecting a country updates the entire dashboard.
+- The chart has been set to "Use as Filter" and applied to all data using the same source, so selecting a country updates the entire dashboard.
 
 **2) Life Expectancy by Continent**
 - A bar chart showing the average life expectancy for each continent, sorted in descending order.
